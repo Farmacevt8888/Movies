@@ -1,0 +1,17 @@
+* {
+   padding: 0px;
+   margin: 0px;
+   border: 0px;
+}
+
+.container {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+   margin: 0px auto;
+   background: rgb(20, 91, 112);
+   min-height: 200px;
+   color: rgb(130, 186, 221);
+   font-size: 40px;
+}
